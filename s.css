@@ -1,0 +1,116 @@
+.backgroundimg{
+    background-color:aqua;
+    background-size:cover;
+    height:100vh;
+    width:100vw;
+}
+
+
+.card1{
+    background-color:white;
+    width:300px;
+    height:40px;
+    text-align:center;
+    padding:5px;
+    margin:10px;
+    border-radius:20px;
+
+
+}
+.card2{
+    text-align:end;
+}
+.head{
+    color:rgb(29, 43, 238);
+    font-size:20px;
+}
+
+.back-color{
+    background-color:white;
+    width:900px;
+    border-radius:20px;
+    
+}
+
+
+.card4{
+    background-color:white;
+    height:600px;
+    width:300px;
+    margin:40px;
+    border-radius:20px;
+    
+}
+.head1{
+    color:rgb(52, 221, 251);
+    font-family:"Roboto";
+    font-size:37px;
+    padding:10px;
+    margin:20px;
+    font-weight:bold;
+}
+.para{
+    font-size:25px;
+    
+}
+.box{
+    height:60px;
+    border-radius:10px;
+   
+}
+.card6{
+    margin:40px;
+    
+}
+.para1{
+   font-size:14px;
+   margin:20px;
+}
+.button1{
+    border-radius:10px;
+    background-color:aqua;
+    height:50px;
+    width:90px;
+}
+.button2{
+    border-radius:10px;
+    height:50px;
+    width:90px;
+    margin:10px;
+}
+.img1{
+    height:70px;
+    width:70px;
+    border-radius:20px;
+}
+.bg1{
+    background-color:aqua;
+}
+.head3{
+    font-size:30px;
+    color:red;
+    font-weight:bold;
+}
+.span{
+    color:green;
+}
+.card7{
+    margin:45px;
+}
+.para4{
+    font-size:22px;
+    color:rgb(108, 106, 106);
+    font-size: 20px;
+    
+}
+.img2{
+    height:50px;
+    width:50px;
+    border-radius:20px;
+}
+.img3{
+    height:50px;
+    width:50px;
+    border-radius:20px;
+    margin:30px;
+}
